@@ -1,88 +1,46 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jurnie Crawford's CV 
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Jurnie Crawford
+**Business Analyst | Student**
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/jurnie-c-bb3b49119/">My LinkedIn</a>
 </div>
 
+---
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+## Skills
+* **SQL** • **Power BI** • **Spreadsheet Analysis** • **Meta Business Suite** • **RStudio**
+* **Data Tools:** Python (Polars), Statistical Modeling (ANOVA), Data Cleaning
 
 ## Education
+### Brigham Young University - Idaho | Rexburg, ID
+* **Related Courses:** Business Spreadsheets, Intro to Databases, SQL for Analysts, Financial Accounting, Finance Management, Intermediate Statistics.
 
-`1654-1660`
-__The King's School, Grantham.__
+## Experience
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Marketing Intern | Sept 2024 - Nov 2024
+**Alliance Home Health and Hospice** | *Idaho Falls, ID*
+* Built a **Google Sheets tracking system** to reduce duplicate doctor office visits by **20-30%**, enabling outreach to new offices and expanding referral sources.
+* Coordinated with facilities management to schedule **3 community events** at assisted living centers; one led to a recurring monthly partnership and expanded outreach opportunities.
+* Maximized a **$600/month budget** to support multiple outreach initiatives, enabling events to strengthen community ties.
 
-- Sizar
+### Train Agent/Station Master (Seasonal) | April 2021 - Sept 2023
+**White Pass Yukon Route Railroad** | *Skagway, AK*
+* Coordinated **20+ tour guides daily** to assigned train cars, driving consistent, timely departures.
+* Utilized **Microsoft Excel** to design and plan daily boarding and seating plans for up to **2,000 passengers**, balancing ADA individuals and tour directors to ensure a timely departure.
+* Reviewed **50+ dispatch schedules per day**, guaranteeing precise tour-to-train coordination.
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Social Media Intern | Oct 2021 - Aug 2023
+**Allyson Kelly Associates (AKA)** | *Remote*
+* Produced **3–5 posts per week** by developing and executing a social media plan that launched AKA’s online presence and increased engagement.
+* Designed and optimized social media content to **drive website traffic**, aligning posts with organizational goals and strengthening digital presence.
+* Leveraged social media platforms to create a new avenue for client engagement, generating opportunities for outreach and potential partnerships.
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+---
 
 <!-- ### Footer
 
